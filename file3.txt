@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 hello from local repo
-=======
+
 hello from remote repo
->>>>>>> 67b7515119b6b6f1970b8ef933d33466618a1e61
+
